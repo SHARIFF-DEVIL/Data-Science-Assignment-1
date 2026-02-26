@@ -4,30 +4,30 @@ Data cleaning and preprocessing
 
 **Descriptive statistics:**
 
-Mean
++ Mean
 
-Median
++ Median
 
-Mode
++ Mode
 
-Variance
++ Variance
 
-Standard Deviation
++ Standard Deviation
 
 **NumPy-based operations:**
 
-Min / Max calculation
++ Min / Max calculation
 
-Percentile analysis
++ Percentile analysis
 
-Correlation matrix
++ Correlation matrix
 
-Z-score normalization
++ Z-score normalization
 
 **Tech Stack**
 
-Python 3.x
++ Python 3.x
 
-Pandas
++ Pandas
 
-NumPy
++ NumPy
